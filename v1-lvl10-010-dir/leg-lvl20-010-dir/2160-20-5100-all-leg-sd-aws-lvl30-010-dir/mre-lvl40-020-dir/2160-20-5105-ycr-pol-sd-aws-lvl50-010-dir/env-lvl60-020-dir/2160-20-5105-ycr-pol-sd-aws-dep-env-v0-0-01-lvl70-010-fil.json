@@ -1,0 +1,13 @@
+{
+  "resourceMetadataKEY": "yes",
+  "webServicePlatformNameKEY": "aws",
+  "accountNumberKEY": "635602896676",
+  "regionAreaNameKEY": "europe",
+  "regionNameKEY": "london",
+  "regionCodeKEY": "eu-west-2",
+  "aAvailabilityZoneCodeKEY": "eu-west-2a",
+  "bAvailabilityZoneCodeKEY": "no",
+  "cAvailabilityZoneCodeKEY": "no",
+  "serviceNameKEY": "iam",
+  "serviceTypeKEY": "global"
+}
