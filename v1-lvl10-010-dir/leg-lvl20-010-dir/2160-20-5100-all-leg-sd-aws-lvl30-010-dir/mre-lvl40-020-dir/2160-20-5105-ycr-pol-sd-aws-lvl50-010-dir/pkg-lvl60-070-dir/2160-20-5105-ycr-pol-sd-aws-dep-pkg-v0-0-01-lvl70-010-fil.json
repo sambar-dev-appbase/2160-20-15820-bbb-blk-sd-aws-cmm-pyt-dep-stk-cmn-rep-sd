@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+  "package1NameKEY": "pip",
+  "package1VersionNumberKEY": "8.09",
+  "package2NameKEY": "package_name_2",
+  "package2VersionNumberKEY": "16.20.0",
+  "package3NameKEY": "package_name_3",
+  "package3VersionNumberKEY": "3.8.10"
+}

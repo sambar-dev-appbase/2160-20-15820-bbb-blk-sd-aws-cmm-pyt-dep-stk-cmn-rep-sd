@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+  "library1NameKEY": "numpy",
+  "library1VersionNumberKEY": "1.0.0",
+  "library2NameKEY": "tensorflow",
+  "library2VersionNumberKEY": "2.3.1",
+  "library3NameKEY": "library_name_3",
+  "library3VersionNumberKEY": "0.5.2"
+}

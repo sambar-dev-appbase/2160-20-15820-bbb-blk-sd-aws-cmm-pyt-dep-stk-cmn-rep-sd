@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+  "module1NameKEY": "os",
+  "module1VersionNumberKEY": "1.28.0",
+  "module2NameKEY": "json",
+  "module2VersionNumberKEY": "2.3.1",
+  "module3NameKEY": "module_name_3",
+  "module3VersionNumberKEY": "0.5.2"
+}
